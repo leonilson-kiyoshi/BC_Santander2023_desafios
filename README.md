@@ -1,1 +1,3 @@
-# BC_Santander2023_desafios
+# BootCamp - Santander 2023
+
+Repositório usado para colocar os desafios do Bootcamp
